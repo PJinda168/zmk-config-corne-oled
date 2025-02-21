@@ -23,4 +23,4 @@ include:
   - board: nice_nano_v2
     shield: corne_right nice_view_adapter nice_view_battery # updated entry
   - board: seeeduino_xiao_ble
-    shield: corne_dongle prospector_adapter
+    shield: corne_central_dongle prospector_adapter
